@@ -127,4 +127,6 @@ penguin_ph
 ```
 
 
-Mean flipper lengths for Adelie, Gentoo, and Chinstrap penguins are all significantly different (F(df) = statistic, p<0.001, $\alpha$ = 0.05 with post-hoc Tukey's HSD, $\alpha = 0.05$)
+Mean flipper lengths for Adelie, Gentoo, and Chinstrap penguins are all significantly different (F(df) = statistic, p<0.001, $\alpha$ = 0.05 with post-hoc Tukey's HSD, $\alpha = 0.05$) 
+
+BTW: onewaytests does ANOVA but lets you do in line referencing. Check Allison's key online to see how. 
